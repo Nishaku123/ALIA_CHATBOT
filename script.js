@@ -73,7 +73,7 @@ if (match) {
         "how are you?": "I'm just a bot, but thanks for asking!",
         "bye": "Goodbye! Have a great day!",
         "hello": "Hi there! What can I do for you?",
-        "who is your creator": "My creator is Gayatri Annepu.",
+        "who is your creator": "My creator is Nisha Kumari",
         "what is your name?": "I'm a simple chatbot named Alia created by Annepu Gayatri to assist you.",
         "what can you do?": "I can chat with you, provide the current time, date, solve simple math problems, and answer basic questions!",
         "help": "Sure! What do you need help with?",
